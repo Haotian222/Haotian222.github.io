@@ -3,3 +3,4 @@ body{background:#f8f9fa;font-family:Lato,"Microsoft YaHei",sans-serif;color:#212
 .school-emblem{display:inline-flex;width:24px;height:28px;flex:0 0 24px;align-items:center;justify-content:center;margin:3px 6px 0 0}.school-emblem img{display:block;width:100%;height:100%;object-fit:contain;background:transparent}
 
 .school-emblem.hnu-emblem img{transform:scale(1.32);transform-origin:center}.school-emblem.hnu-emblem{overflow:visible}
+.school-emblem.hnu-emblem img{width:32.337px;height:33.574px;max-width:none;flex-shrink:0;object-fit:fill;transform:none}.portrait-layout1 img{transform:translateX(-7%) scale(1.12);transform-origin:57% 58%}
