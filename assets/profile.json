@@ -1,0 +1,314 @@
+[
+  {
+    "items": [
+      [
+        "苏黎世大学与苏黎世联邦理工学院                                       2026.09至今",
+        "University of Zurich & ETH Zurich                                      Sep. 2026 – Present"
+      ],
+      [
+        "博士后研究员，神经信息学与微电子，导师：Giacomo Indiveri 教授",
+        "Postdoctoral Researcher in Neuroinformatics & Microelectronics, Supervisor: Prof. Giacomo Indiveri"
+      ],
+      [
+        "香港科技大学（广州）           2022.09至2026.10",
+        "The Hong Kong University of Science and Technology (Guangzhou)           Sep. 2022 – Oct. 2026"
+      ],
+      [
+        "哲学博士，微电子，导师：程伯骏教授",
+        "Doctor of Philosophy (Ph.D.) in Microelectronics, Supervisor: Prof. Bojun Cheng"
+      ],
+      [
+        "苏黎世大学与苏黎世联邦理工学院                                      2026.04至2026.07",
+        "University of Zurich & ETH Zurich                                     Apr. 2026 – Jul. 2026"
+      ],
+      [
+        "访问学者，神经信息学与微电子，导师：Giacomo Indiveri 教授",
+        "Visiting Scholar in Neuroinformatics & Microelectronics, Supervisor: Prof. Giacomo Indiveri"
+      ],
+      [
+        "湖南大学                2018.09至2022.06",
+        "Hunan University            Sep. 2018 – Jun. 2022"
+      ],
+      [
+        "工学学士，通信工程",
+        "Bachelor of Engineering (B.Eng.) in Communication Engineering"
+      ]
+    ],
+    "title": [
+      "工作与教育经历",
+      "Appointments & Education"
+    ]
+  },
+  {
+    "items": [
+      [
+        "高效人工智能与大模型协同设计",
+        "Efficient AI & Large-Model Co-Design"
+      ],
+      [
+        "面向端侧大模型加速与部署，研究软硬件协同的高能效人工智能计算架构及其在具身智能中的应用。",
+        "Developing energy-efficient AI architectures through hardware-software co-design for on-device large-model acceleration and deployment, and their applications in embodied intelligence."
+      ],
+      [
+        "神经形态感知与计算",
+        "Neuromorphic Sensing & Computing"
+      ],
+      [
+        "面向多模态神经形态感知与事件驱动计算系统，开展感内计算、感算融合、异步处理与高效片上学习研究。",
+        "Developing multimodal neuromorphic sensing and event-driven computing systems with in-sensor computing, sensing-computing integration, asynchronous processing, and efficient on-chip learning."
+      ],
+      [
+        "存内计算处理器",
+        "Computing-in-Memory Processors"
+      ],
+      [
+        "面向高能效、高吞吐量边缘计算，研究基于多种存储介质的存内计算架构与芯片设计。",
+        "Developing computing-in-memory architectures and chip designs based on diverse memory technologies for energy-efficient, high-throughput edge AI computing."
+      ]
+    ],
+    "title": [
+      "研究方向",
+      "Research Interests"
+    ]
+  },
+  {
+    "items": [
+      [
+        "神经形态电荷域人工神经网络与脉冲神经网络混合存算一体处理器                 2025.09至2026.09",
+        "Neuromorphic Hybrid Charge-Domain ANN/SNN Compute-In-Memory Processor   Sep. 2025 – Sep. 2026"
+      ],
+      [
+        "提出支持人工神经网络与脉冲神经网络双模式计算的事件驱动电荷域存算一体处理器，并集成可配置片上网络，实现灵活的核间通信与数据流调度。",
+        "Developed a dual-mode CIM processor supporting both ANN and SNN computation, with a configurable on-chip NoC for flexible inter-core communication and dataflow."
+      ],
+      [
+        "神经形态异步脉冲视觉传感器  2023.11至2026.02",
+        "Neuromorphic Asynchronous Spiking Vision Sensor  Nov. 2023 – Feb. 2026"
+      ],
+      [
+        "提出基于脉冲编码、像素内处理与异步读出的事件驱动视觉传感器，实现高速、高动态范围感知。",
+        "Developed an event-driven vision sensor with spike-based encoding, in-pixel processing, and asynchronous readout for high-speed and high-dynamic-range sensing."
+      ],
+      [
+        "支持高效片上学习的神经形态感-存-算一体芯片与系统                    2024.05至2025.08",
+        "Neuromorphic Sense-Memory-Compute Chip and System with Efficient On-Chip Learning    May 2024 – Aug. 2025"
+      ],
+      [
+        "提出具备高效片上学习能力的事件驱动脉冲型感-存-算神经形态系统，引入三值梯度与格雷码权重更新机制，提升学习效率与存储器耐久性。",
+        "Developed an event-driven neuromorphic sense-memory-compute system with efficient on-chip learning, incorporating ternary-gradient and Gray-code-based weight updates to improve learning efficiency and memory endurance."
+      ],
+      [
+        "基于 SRAM 的脉冲驱动电荷域存算一体计算宏                                   2023.10至2025.02",
+        "SRAM-Based Spiking Charge-Domain Compute-In-Memory Macro                   Oct. 2023 – Feb. 2025"
+      ],
+      [
+        "提出基于动态电荷共享的事件驱动电容型突触与神经元电路，并实现脉冲电荷域存算一体计算宏，支持无静态直流电流的低功耗脉冲神经网络计算。",
+        "Developed event-driven capacitive synapses and neurons using dynamic charge sharing, enabling low-power SNN computation without static DC current."
+      ],
+      [
+        "基于 MRAM 的双脉冲异步编码与存算一体计算宏                2022.11至2023.10",
+        "MRAM-Based Dual-Spike-Driven Compute-In-Memory Macro                Nov. 2022 – Oct. 2023"
+      ],
+      [
+        "提出基于 MRAM 的双脉冲驱动异步自控制存算一体架构，在降低通信带宽与推理延迟的同时提升计算能效。",
+        "Developed a dual-spike-driven MRAM CIM architecture to reduce communication bandwidth and inference latency while improving energy efficiency."
+      ]
+    ],
+    "title": [
+      "科研项目",
+      "Research Projects"
+    ]
+  },
+  {
+    "items": [
+      [
+        "时识科技 SynSense2023.11至2025.11",
+        "SynSense  Nov. 2023 – Nov. 2025"
+      ],
+      [
+        "混合信号电路设计合作",
+        "Mixed-Signal Circuit Design Collaboration"
+      ],
+      [
+        "负责高动态范围、高帧率脉冲视觉传感器设计。",
+        "Designed a spiking vision sensor with high dynamic range and high frame rate."
+      ],
+      [
+        "睿科微电子 Reliance Memory     2023.08至2023.11",
+        "Reliance Memory  Aug. 2023 – Nov. 2023"
+      ],
+      [
+        "模拟电路设计合作",
+        "Analog Circuit Design Collaboration"
+      ],
+      [
+        "负责阻变存储器（ReRAM）阵列的电荷泵电路设计。",
+        "Designed a charge-pump circuit for resistive random-access memory (ReRAM) array."
+      ],
+      [
+        "知存科技 Witmem      2022.02至2022.08",
+        "Witmem   Feb. 2022 – Aug. 2022"
+      ],
+      [
+        "模拟电路设计合作",
+        "Analog Circuit Design Collaboration"
+      ],
+      [
+        "负责面向 NOR Flash 存算一体宏的低压差线性稳压器（LDO）电路设计。",
+        "Designed a low-dropout voltage regulator (LDO) circuit for NOR Flash-based CIM macro."
+      ]
+    ],
+    "title": [
+      "企业合作经历",
+      "Industry Collaborations"
+    ]
+  },
+  {
+    "items": [
+      [
+        "香港科技大学（广州）优秀共产党员 2026.06",
+        "Outstanding Communist Party Member, HKUST (Guangzhou)Jun. 2026"
+      ],
+      [
+        "湖南大学优秀毕业生         2022.06",
+        "Outstanding Graduate, Hunan University        Jun. 2022"
+      ]
+    ],
+    "title": [
+      "荣誉",
+      "Honors"
+    ]
+  },
+  {
+    "items": [
+      [
+        "审稿人",
+        "Reviewer"
+      ],
+      [
+        "IEEE International Symposium on Circuits and Systems (ISCAS)",
+        "IEEE International Symposium on Circuits and Systems (ISCAS)"
+      ],
+      [
+        "Neural Information Processing Systems (NeurIPS)",
+        "Neural Information Processing Systems (NeurIPS)"
+      ],
+      [
+        "IEEE Conference on Computer Vision and Pattern Recognition (CVPR)",
+        "IEEE Conference on Computer Vision and Pattern Recognition (CVPR)"
+      ],
+      [
+        "IEEE Transactions on Circuits and Systems I: Regular Papers (TCAS-I)",
+        "IEEE Transactions on Circuits and Systems I: Regular Papers (TCAS-I)"
+      ],
+      [
+        "IEEE Transactions on Circuits and Systems for Artificial Intelligence (TCASAI)",
+        "IEEE Transactions on Circuits and Systems for Artificial Intelligence (TCASAI)"
+      ],
+      [
+        "IEEE Transactions on Biomedical Circuits and Systems (TBioCAS)",
+        "IEEE Transactions on Biomedical Circuits and Systems (TBioCAS)"
+      ],
+      [
+        "课程助教",
+        "Teaching Assistant"
+      ],
+      [
+        "Neuromorphic Sensing & Computing",
+        "Neuromorphic Sensing & Computing"
+      ],
+      [
+        "Introduction to Computer Science",
+        "Introduction to Computer Science"
+      ]
+    ],
+    "title": [
+      "学术服务",
+      "Academic Service"
+    ]
+  },
+  {
+    "items": [
+      [
+        "第一作者",
+        "First-Author"
+      ],
+      [
+        "会议论文",
+        "Conference"
+      ],
+      [
+        "Fu, H., Zhou, Y., Zhang, Z., Zheng, H., Yang, R., Huang, Y., Xing, Y., Demirci, T., Qiao, N., and Cheng, B., “SpikeRAM: A 48.1pW/synapse/b Event-driven Spiking Compute-Near/In-Memory Processor with Neuromorphic Sensor Enabling Life-Long On-Chip Learning,” IEEE International Solid-State Circuits Conference (ISSCC), February 2026. （口头报告）",
+        "Fu, H., Zhou, Y., Zhang, Z., Zheng, H., Yang, R., Huang, Y., Xing, Y., Demirci, T., Qiao, N., and Cheng, B., \"SpikeRAM: A 48.1pW/synapse/b Event-driven Spiking Compute-Near/In-Memory Processor with Neuromorphic Sensor Enabling Life-Long On-Chip Learning,\" IEEE International Solid-State Circuits Conference (ISSCC), February 2026. (Oral)"
+      ],
+      [
+        "Fu, H., Zheng, H., Zhou, Y., Wen, X., Chen, Y., Ren, H., Lin, X., Zong, Z., Wu, L., and Cheng, B., “NeuC-CIM: A 1.3 pJ/SOP Neuromorphic Charge-Domain Compute-in-Memory Macro for Spiking Neural Network,” IEEE Symposium on VLSI Technology and Circuits (VLSI), June 2025. （口头报告）",
+        "Fu, H., Zheng, H., Zhou, Y., Wen, X., Chen, Y., Ren, H., Lin, X., Zong, Z., Wu, L., and Cheng, B., \"NeuC-CIM: A 1.3 pJ/SOP Neuromorphic Charge-Domain Compute-in-Memory Macro for Spiking Neural Network,\" IEEE Symposium on VLSI Technology and Circuits (VLSI), June 2025. (Oral)"
+      ],
+      [
+        "期刊论文",
+        "Journal"
+      ],
+      [
+        "Fu, H., Huang, Y., Chen, T., Fu, C., Ren, H., Zhou, Y., Peng, S., Zong, Z., Pan, B., and Cheng, B., “DS-CIM: A 40nm Asynchronous Dual-Spike Driven, MRAM Compute-In-Memory Macro for Spiking Neural Network,” IEEE Transactions on Circuits and Systems I: Regular Papers (TCAS-I), vol. 71, no. 4, pp. 1638-1650, April 2024.",
+        "Fu, H., Huang, Y., Chen, T., Fu, C., Ren, H., Zhou, Y., Peng, S., Zong, Z., Pan, B., and Cheng, B., \"DS-CIM: A 40nm Asynchronous Dual-Spike Driven, MRAM Compute-In-Memory Macro for Spiking Neural Network,\" IEEE Transactions on Circuits and Systems I: Regular Papers (TCAS-I), vol. 71, no. 4, pp. 1638-1650, April 2024."
+      ],
+      [
+        "Fu, H., Hong, Q., Wang, C., Sun, J., and Li, Ya., “Solving Non-Homogeneous Linear Ordinary Differential Equations Using Memristor-Capacitor Circuit,” IEEE Transactions on Circuits and Systems I: Regular Papers (TCAS-I), vol. 68, no. 11, pp. 4495-4507, November 2021.",
+        "Fu, H., Hong, Q., Wang, C., Sun, J., and Li, Ya., \"Solving Non-Homogeneous Linear Ordinary Differential Equations Using Memristor-Capacitor Circuit,\" IEEE Transactions on Circuits and Systems I: Regular Papers (TCAS-I), vol. 68, no. 11, pp. 4495-4507, November 2021."
+      ],
+      [
+        "合作作者",
+        "Co-Author"
+      ],
+      [
+        "会议论文",
+        "Conference"
+      ],
+      [
+        "Lin, X., Huang, Y., Ren, H., Liu, Z., Huang, H., Zhou, Y., Fu, H., and Cheng, B., “ClearSight: Human Vision-Inspired Solutions for Event-Based Motion Deblurring,” Proceedings of the IEEE/CVF International Conference on Computer Vision (ICCV), 2025.",
+        "Lin, X., Huang, Y., Ren, H., Liu, Z., Huang, H., Zhou, Y., Fu, H., and Cheng, B., \"ClearSight: Human Vision-Inspired Solutions for Event-Based Motion Deblurring,\" Proceedings of the IEEE/CVF International Conference on Computer Vision (ICCV), 2025."
+      ],
+      [
+        "Ren, H., Zhu, J., Zhou, Y., Fu, H., Huang, Y., and Cheng, B., “A Simple and Effective Point-Based Network for Event Camera 6-DoFs Pose Relocalization,” Proceedings of the IEEE/CVF Conference on Computer Vision and Pattern Recognition (CVPR), 2024.",
+        "Ren, H., Zhu, J., Zhou, Y., Fu, H., Huang, Y., and Cheng, B., \"A Simple and Effective Point-Based Network for Event Camera 6-DoFs Pose Relocalization,\" Proceedings of the IEEE/CVF Conference on Computer Vision and Pattern Recognition (CVPR), 2024."
+      ],
+      [
+        "Huang, Y., Lin, X., Ren, H., Fu, H., Zhou, Y., Liu, Z., Pan, B., and Cheng, B., “CLIF: Complementary Leaky Integrate-and-Fire Neuron for Spiking Neural Networks,” Proceedings of the International Conference on Machine Learning (ICML), 2024.",
+        "Huang, Y., Lin, X., Ren, H., Fu, H., Zhou, Y., Liu, Z., Pan, B., and Cheng, B., \"CLIF: Complementary Leaky Integrate-and-Fire Neuron for Spiking Neural Networks,\" Proceedings of the International Conference on Machine Learning (ICML), 2024."
+      ],
+      [
+        "Ren, H., Zhou, Y., Lin, X., Huang, Y., Fu, H., Song, J., and Cheng, B., “Spikepoint: An Efficient Point-Based Spiking Neural Network for Event Cameras Action Recognition,” Proceedings of the International Conference on Learning Representations (ICLR), 2024.",
+        "Ren, H., Zhou, Y., Lin, X., Huang, Y., Fu, H., Song, J., and Cheng, B., \"Spikepoint: An Efficient Point-Based Spiking Neural Network for Event Cameras Action Recognition,\" Proceedings of the International Conference on Learning Representations (ICLR), 2024."
+      ],
+      [
+        "Ren, H., Zhou, Y., Fu, H., Huang, Y., Xu, R., and Cheng, B., “TTpoint: A Tensorized Point Cloud Network for Lightweight Action Recognition with Event Cameras,” Proceedings of the 31st ACM International Conference on Multimedia (MM), 2023.",
+        "Ren, H., Zhou, Y., Fu, H., Huang, Y., Xu, R., and Cheng, B., \"TTpoint: A Tensorized Point Cloud Network for Lightweight Action Recognition with Event Cameras,\" Proceedings of the 31st ACM International Conference on Multimedia (MM), 2023."
+      ],
+      [
+        "期刊论文",
+        "Journal"
+      ],
+      [
+        "Zhou, Y., Fang, Y., Gisler, R., Ren, H., Fu, H., Ma, Z., Huang, Y., Xu, R., Bouhelier, A., Leuthold, J., and Cheng, B., “Photonically Linked Three-Dimensional Neural Networks Based on Memristive Blinking Neurons,” Nature Electronics, vol. 9, no. 1, pp. 93–102, 2026.",
+        "Zhou, Y., Fang, Y., Gisler, R., Ren, H., Fu, H., Ma, Z., Huang, Y., Xu, R., Bouhelier, A., Leuthold, J., and Cheng, B., \"Photonically Linked Three-Dimensional Neural Networks Based on Memristive Blinking Neurons,\" Nature Electronics, vol. 9, no. 1, pp. 93–102, 2026."
+      ],
+      [
+        "Ren, H., Zhou, Y., Zhu, J., Lin, X., Fu, H., Huang, Y., Fang, Y., Ma, F., Yu, H., and Cheng, B., “Rethinking Efficient and Effective Point-Based Networks for Event Camera Classification and Regression,” IEEE Transactions on Pattern Analysis and Machine Intelligence (TPAMI), vol. 47, no. 8, pp. 6228-6241, August 2025.",
+        "Ren, H., Zhou, Y., Zhu, J., Lin, X., Fu, H., Huang, Y., Fang, Y., Ma, F., Yu, H., and Cheng, B., “Rethinking Efficient and Effective Point-Based Networks for Event Camera Classification and Regression,” IEEE Transactions on Pattern Analysis and Machine Intelligence (TPAMI), vol. 47, no. 8, pp. 6228-6241, August 2025."
+      ],
+      [
+        "Chen, T., Wang, W., Chen, J., Fu, H., Yi, W., Cheng, B., Zhang, H., and Pan, B., “PipeCIM: A High-Throughput Computing-in-Memory Microprocessor with Nested Pipeline and RISC-V Extended Instructions,” IEEE Transactions on Circuits and Systems I: Regular Papers (TCAS-I), vol. 71, no. 7, pp. 3214–3227, 2024.",
+        "Chen, T., Wang, W., Chen, J., Fu, H., Yi, W., Cheng, B., Zhang, H., and Pan, B., \"PipeCIM: A High-Throughput Computing-in-Memory Microprocessor with Nested Pipeline and RISC-V Extended Instructions,\" IEEE Transactions on Circuits and Systems I: Regular Papers (TCAS-I), vol. 71, no. 7, pp. 3214–3227, 2024."
+      ],
+      [
+        "Hong, Q., Fu, H., Liu, Y., and Zhang, J., “In-Memory Computing Circuit Implementation of Complex-Valued Hopfield Neural Network for Efficient Portrait Restoration,” IEEE Transactions on Computer-Aided Design of Integrated Circuits and Systems (TCAD), vol. 42, no. 10, pp. 3338-3351, October 2023.",
+        "Hong, Q., Fu, H., Liu, Y., and Zhang, J., \"In-Memory Computing Circuit Implementation of Complex-Valued Hopfield Neural Network for Efficient Portrait Restoration,\" IEEE Transactions on Computer-Aided Design of Integrated Circuits and Systems (TCAD), vol. 42, no. 10, pp. 3338-3351, October 2023."
+      ]
+    ],
+    "title": [
+      "论文成果",
+      "Publications"
+    ]
+  }
+]
