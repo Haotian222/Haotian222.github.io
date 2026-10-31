@@ -4,3 +4,4 @@ body{background:#f8f9fa;font-family:Lato,"Microsoft YaHei",sans-serif;color:#212
 
 .school-emblem.hnu-emblem img{transform:scale(1.32);transform-origin:center}.school-emblem.hnu-emblem{overflow:visible}
 .school-emblem.hnu-emblem img{width:32.337px;height:33.574px;max-width:none;flex-shrink:0;object-fit:fill;transform:none}.portrait-layout1 img{transform:translateX(-7%) scale(1.12);transform-origin:57% 58%}
+.portrait-layout1{aspect-ratio:4/5}@media(max-width:767px){.portrait-layout1{aspect-ratio:4/5;border-radius:0}}
