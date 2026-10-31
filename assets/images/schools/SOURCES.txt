@@ -1,0 +1,5 @@
+School logo sources
+HKUST (Guangzhou): https://www.hkust-gz.edu.cn/wp-content/themes/hkust-gz-official-0827/images/logo-e-white-2x.png
+Hunan University (1280 x 1280 crest and original AI vector available): https://100.hnu.edu.cn/xiaohuixiaoming.zip
+University of Zurich (SVG): https://www.cd.uzh.ch/dam/jcr%3Ae2f01a3c-e263-427a-91d7-723fc337af4b/uzh-logo.svg
+ETH Zurich: https://files.ait.ethz.ch/downloads/ethlogo/eth_logo_kurz_pos.png
