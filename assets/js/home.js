@@ -38,3 +38,5 @@ function sidebar(html){
  const about='<div class="row"><div class="col"><div class="card border-0 shadow-sm bg-white"><div class="card-body p-4"><div class="row px-3 pt-3"><div class="col h3">'+t('自我介绍','About Me')+'</div></div><div class="row p-3"><div class="col"><div class="text-profile-bio mt-0">'+bio+'</div></div></div></div></div></div></div>';
  return '<div class="row"><div class="col-lg-3 col-md-4">'+profile+'</div><div class="col-lg-9 col-md-8"><div class="mt-3 d-md-none"></div>'+about+experience+news+cards[1]+cards[2]+'</div></div>';
 }
+// Standalone emblems: no adjacent wordmarks and no CSS cropping.
+function schoolLogo(badge){const school=badge==='HKUST(GZ)'?['hkust-emblem.png','HKUST']:badge==='HNU'?['hnu.jpg','Hunan University']:['uzh-seal.svg','University of Zurich'];return '<span class="school-emblem"><img src="assets/images/schools/'+school[0]+'" alt="'+school[1]+'"></span>';}
